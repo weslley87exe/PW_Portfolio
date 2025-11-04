@@ -41,9 +41,9 @@ Atualmente, estou aprimorando meu portfólio para mostrar minhas habilidades com
 ---
 
 ## 🌐 Contato
-📫 **E-mail:** teuemail@email.com  
-🔗 **LinkedIn:** [linkedin.com/in/teulink](https://linkedin.com/in/teulink)  
-💼 **GitHub:** [github.com/teuusuario](https://github.com/teuusuario)
+📫 **E-mail:** pauloweslleypw8@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/teulink](www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
+💼 **GitHub:** [github.com/teuusuario](https://github.com/weslley87exe)
 
 ---
 
