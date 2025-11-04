@@ -1,33 +1,50 @@
-# 🚀 Portfólio de Análise de Dados – Paulo Weslley (PW)
+<h1 align="center">🚀 Portfólio de Análise de Dados – Paulo Weslley (PW)</h1>
 
-Bem-vindo ao meu portfólio!  
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por **Python, SQL e Power BI**.  
-Aqui estão meus principais projetos, estudos e dashboards desenvolvidos ao longo da minha jornada como futuro **Analista de Dados**.
-
----
-
-## 🧠 Tecnologias e Habilidades
-- Python (análise, automação e APIs)
-- SQL (consultas, filtros e integração com Python)
-- Power BI (dashboards e DAX básico)
-- GitHub & Versionamento
-- Lógica de programação e resolução de problemas
+<p align="center">
+  <strong>Python 🐍 | SQL 🗄️ | Power BI 📊</strong><br>
+  Transformando dados em histórias e soluções reais.
+</p>
 
 ---
 
-## 📊 Projetos em Destaque
+## 👨‍💻 Sobre mim
+Sou o **Paulo Weslley (PW)**, tenho 20 anos e curso **Análise e Desenvolvimento de Sistemas**.  
+Gosto de unir lógica, criatividade e dados para gerar insights que façam sentido.  
+Atualmente, estou aprimorando meu portfólio para mostrar minhas habilidades como **Analista de Dados Júnior**.
+
+---
+
+## 🧠 Habilidades Técnicas
+✅ Python – análise, automação e APIs  
+✅ SQL – consultas, junções e filtros  
+✅ Power BI – dashboards, DAX básico e design de relatórios  
+✅ Git & GitHub – versionamento e documentação  
+✅ Lógica de Programação – foco em clareza e eficiência  
+
+---
+
+## 🗂️ Projetos em Destaque
+
 | Área | Projeto | Descrição |
 |------|----------|-----------|
-| 🐍 Python | [Sistema de Cadastro de Alunos](./Python_Projects/Sistema_Cadastro_Alunos) | Sistema completo com validações, JSON/CSV e API FastAPI |
-| 📈 Power BI | [Dashboard de Vendas Anual](./PowerBI_Dashboards/Vendas_Anual) | Visualização de desempenho anual e filtros interativos |
-| 🗄️ SQL | [Consultas SQL Reais](./SQL_Scripts/consultas_basicas.sql) | Consultas e scripts aplicados em datasets reais |
+| 🐍 **Python** | [Sistema de Cadastro de Alunos](./Python_Projects/Sistema_Cadastro_Alunos) | Sistema completo com validações, JSON/CSV e API FastAPI |
+| 📈 **Power BI** | [Dashboard de Vendas Anual](./PowerBI_Dashboards/Vendas_Anual) | Análise de desempenho anual com filtros e métricas visuais |
+| 🗄️ **SQL** | [Consultas SQL Reais](./SQL_Scripts/consultas_basicas.sql) | Scripts SQL usados em datasets reais para extração e análise |
 
 ---
 
-## 👨‍💻 Sobre Mim
-Meu nome é **Paulo Weslley**, tenho 20 anos e estou cursando **Análise e Desenvolvimento de Sistemas**.  
-Gosto de unir lógica e criatividade para transformar dados em insights.  
-Meu objetivo é atuar como **Analista de Dados Júnior** em 2026, unindo Python, SQL e Power BI em soluções reais.
+## 📊 Tecnologias que uso
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,powerbi,vscode" />
+</p>
 
-📫 Contato: [teu e-mail aqui]  
-🔗 LinkedIn: [teu link aqui]
+---
+
+## 🌐 Contato
+📫 **E-mail:** teuemail@email.com  
+🔗 **LinkedIn:** [linkedin.com/in/teulink](https://linkedin.com/in/teulink)  
+💼 **GitHub:** [github.com/teuusuario](https://github.com/teuusuario)
+
+---
+
+<p align="center">✨ “De código em código, construindo meu futuro em dados.” ✨</p>
