@@ -3,84 +3,77 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Paulo Weslley | Back-End & Análise de Dados</title>
+  <title>Portfólio - Paulo Weslley</title>
   <link rel="stylesheet" href="style.css">
-  <script defer src="script.js"></script>
+  <script src="script.js" defer></script>
 </head>
 <body>
   <header>
-    <div class="container">
-      <img src="Assets/img/profile.jpg" alt="Foto de Paulo Weslley" class="profile-pic">
-      <h1>Paulo Weslley</h1>
-      <p class="subtitle">Programador Back-End & Analista de Dados</p>
-      <div class="socials">
-        <a href="https://github.com/weslley87exe" target="_blank"><img src="Assets/img/github.svg" alt="GitHub"></a>
-        <a href="https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377" target="_blank"><img src="Assets/img/linkedin.svg" alt="LinkedIn"></a>
-        <a href="mailto:pauloweslleypw8@gmail.com"><img src="Assets/img/email.svg" alt="E-mail"></a>
-      </div>
-    </div>
+    <nav>
+      <h1>PW Dev</h1>
+      <ul>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#projetos">Projetos</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
   </header>
 
-  <main>
-    <section id="about">
-      <h2>Sobre Mim</h2>
-      <p>
-        Sou um desenvolvedor Back-End e Analista de Dados apaixonado por transformar ideias em soluções práticas.
-        Tenho experiência em Python, SQL, Power BI e construção de sistemas inteligentes com foco em eficiência
-        e clareza. Meu objetivo é unir o poder dos dados com o raciocínio lógico da programação para criar
-        aplicações que façam diferença.
-      </p>
-    </section>
+  <section id="inicio" class="banner">
+    <div class="banner-text">
+      <h2>Olá, eu sou o Paulo Weslley 👋</h2>
+      <p>Desenvolvedor em formação • Python | SQL | Power BI</p>
+      <a href="#projetos" class="btn">Ver Projetos</a>
+    </div>
+  </section>
 
-    <section id="skills">
-  <h2>Tecnologias</h2>
-  <p class="tech-intro">
-    As principais ferramentas e linguagens que utilizo no meu dia a dia para desenvolver soluções eficientes e baseadas em dados:
-  </p>
+  <section id="sobre" class="container">
+    <h2>Sobre mim</h2>
+    <p>Tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas.  
+      Sou apaixonado por tecnologia e dados, e venho desenvolvendo habilidades em Python, SQL e Power BI para me tornar um analista completo.  
+      Este portfólio reúne meus principais projetos práticos.</p>
+  </section>
 
-  <div class="tech-grid">
-    <div class="tech-item">
-      <img src="Assets/img/python.svg" alt="Python">
-      <span>Python</span>
-    </div>
-    <div class="tech-item">
-      <img src="Assets/img/sql.svg" alt="SQL">
-      <span>SQL</span>
-    </div>
-    <div class="tech-item">
-      <img src="Assets/img/powerbi.svg" alt="Power BI">
-      <span>Power BI</span>
-    </div>
-    <div class="tech-item">
-      <img src="Assets/img/html.svg" alt="HTML5">
-      <span>HTML</span>
-    </div>
-    <div class="tech-item">
-      <img src="Assets/img/css.svg" alt="CSS3">
-      <span>CSS</span>
-    </div>
-    <div class="tech-item">
-      <img src="Assets/img/github.svg" alt="GitHub">
-      <span>Git / GitHub</span>
-    </div>
-  </div>
-</section>
-
-
-    <section id="projects">
-      <h2>Projetos</h2>
-      <p>Confira meus principais projetos abaixo:</p>
-      <div class="project-list">
-        <a href="https://github.com/weslley87exe/sistema-alunos" target="_blank" class="project-card">
-          <h3>Sistema de Cadastro de Alunos</h3>
-          <p>Aplicação Python com funções de cadastro, notas e estatísticas — foco em boas práticas e validação.</p>
-        </a>
+  <section id="projetos" class="container">
+    <h2>Projetos</h2>
+    <div class="projetos-grid">
+      <div class="projeto-card">
+        <img src="assets/img/python.svg" alt="Python">
+        <h3>Python</h3>
+        <p>Scripts e mini-sistemas desenvolvidos para aprendizado e automação.</p>
+        <a href="Python_Projects/" target="_blank">Ver Projetos</a>
       </div>
-    </section>
-  </main>
+      <div class="projeto-card">
+        <img src="assets/img/sql.svg" alt="SQL">
+        <h3>SQL</h3>
+        <p>Consultas e modelagens de banco de dados aplicadas a casos reais.</p>
+        <a href="SQL_Scripts/" target="_blank">Ver Scripts</a>
+      </div>
+      <div class="projeto-card">
+        <img src="assets/img/powerbi.svg" alt="Power BI">
+        <h3>Power BI</h3>
+        <p>Dashboards interativos e relatórios de análise de dados.</p>
+        <a href="PowerBI_Dashboards/" target="_blank">Ver Dashboards</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="contato" class="container contato">
+    <h2>Contato</h2>
+    <p>Entre em contato comigo para parcerias, projetos ou oportunidades.</p>
+    <div class="redes">
+      <a href="https://github.com/pauloweslley" target="_blank">
+        <img src="assets/img/github.svg" alt="GitHub">
+      </a>
+      <a href="https://linkedin.com/in/pauloweslley" target="_blank">
+        <img src="assets/img/linkedin.svg" alt="LinkedIn">
+      </a>
+    </div>
+    <p>Email: <a href="mailto:pauloweslley.dev@gmail.com">pauloweslley.dev@gmail.com</a></p>
+  </section>
 
   <footer>
-    <p>© 2025 Paulo Weslley. Todos os direitos reservados.</p>
+    <p>© 2025 Paulo Weslley - Todos os direitos reservados.</p>
   </footer>
 </body>
 </html>
