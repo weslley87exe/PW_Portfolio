@@ -1,50 +1,24 @@
-<h1 align="center">🚀 Portfólio de Análise de Dados – Paulo Weslley (PW)</h1>
+# 🌐 Portfólio - Paulo Weslley
 
-<p align="center">
-  <strong>Python 🐍 | SQL 🗄️ | Power BI 📊</strong><br>
-  Transformando dados em histórias e soluções reais.
-</p>
+## 💡 Sobre Mim
+Sou **Programador Back-End** e **Analista de Dados**. Tenho foco em Python, SQL e Power BI. Busco unir lógica de programação com análise de dados para criar soluções eficientes e inteligentes.
 
 ---
 
-## 👨‍💻 Sobre mim
-Sou o **Paulo Weslley (PW)**, tenho 20 anos e curso **Análise e Desenvolvimento de Sistemas**.  
-Gosto de unir lógica, criatividade e dados para gerar insights que façam sentido.  
-Atualmente, estou aprimorando meu portfólio para mostrar minhas habilidades como **Analista de Dados Júnior**.
+## 🚀 Tecnologias
+- Python 🐍  
+- SQL 🧠  
+- Power BI 📊  
+- HTML5 & CSS3 🌐  
+- Git & GitHub 🧩  
 
 ---
 
-## 🧠 Habilidades Técnicas
-✅ Python – análise, automação e APIs  
-✅ SQL – consultas, junções e filtros  
-✅ Power BI – dashboards, DAX básico e design de relatórios  
-✅ Git & GitHub – versionamento e documentação  
-✅ Lógica de Programação – foco em clareza e eficiência  
+## 🔗 Contato
+📧 **E-mail:** pauloweslleypw8@gmail.com  
+🐙 **GitHub:** [weslley87exe](https://github.com/weslley87exe)  
+💼 **LinkedIn:** [Paulo Weslley Mesquita Oliveira](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)
 
 ---
 
-## 🗂️ Projetos em Destaque
-
-| Área | Projeto | Descrição |
-|------|----------|-----------|
-| 🐍 **Python** | [Sistema de Cadastro de Alunos](./Python_Projects/Sistema_Cadastro_Alunos) | Sistema completo com validações, JSON/CSV e API FastAPI |
-| 📈 **Power BI** | [Dashboard de Vendas Anual](./PowerBI_Dashboards/Vendas_Anual) | Análise de desempenho anual com filtros e métricas visuais |
-| 🗄️ **SQL** | [Consultas SQL Reais](./SQL_Scripts/consultas_basicas.sql) | Scripts SQL usados em datasets reais para extração e análise |
-
----
-
-## 📊 Tecnologias que uso
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github,powerbi,vscode" />
-</p>
-
----
-
-## 🌐 Contato
-📫 **E-mail:** pauloweslleypw8@gmail.com  
-🔗 **LinkedIn:** (www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
-💼 **GitHub:** (https://github.com/weslley87exe)
-
----
-
-<p align="center">✨ “De código em código, construindo meu futuro em dados.” ✨</p>
+📌 *Desenvolvido com dedicação e muito aprendizado.*
