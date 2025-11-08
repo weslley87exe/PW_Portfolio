@@ -1,62 +1,35 @@
-# 📊 Análise de Dados de Vendas | Sales Data Analysis
+<h1 align="center">💡 Mini Projeto de Análise de Dados – Paulo Weslley (PW)</h1>
 
-## 🇧🇷 Descrição
-Projeto desenvolvido em **Python** com foco em **análise de dados comerciais**.  
-O objetivo é transformar dados brutos de vendas em **informações úteis e visuais** para apoiar decisões estratégicas.  
-
-Durante o processo, foram aplicadas técnicas de **limpeza, transformação e visualização de dados** utilizando **Pandas, Matplotlib e Seaborn**.
-
----
-
-## 🧠 Habilidades Demonstradas
-- Leitura e tratamento de datasets (.csv) com **Pandas**  
-- Limpeza e padronização de dados (valores ausentes, tipos incorretos)  
-- Análise estatística descritiva (médias, totais, correlações)  
-- Visualizações de desempenho de vendas por produto, região e período  
-- Geração de insights e interpretação dos resultados  
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linguagem-Python%20%7C%20Pandas-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Versão-1.0-lightgrey?style=for-the-badge">
+</p>
 
 ---
 
-## 🧰 Tecnologias Utilizadas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+## 🧠 Sobre o Projeto
+Projeto de **análise de dados** utilizando **Python, Pandas e Matplotlib**, gerando **insights visuais e relatórios automáticos**.  
+Perfeito para estudo de **datasets reais e automação de análise**.
+
+- Leitura e manipulação de CSVs  
+- Visualização de dados com gráficos  
+- Relatórios automatizados  
+
+🔗 [Em breve no repositório](#)
 
 ---
 
-## 📸 Prévia (em breve)
-*(Serão adicionados gráficos e amostras de código futuramente)*
+## 🌍 English Version
 
----
+<h3 align="center">💡 Mini Data Analysis Project – Paulo Weslley (PW)</h3>
 
-## 🇺🇸 Description
-Project developed in **Python**, focused on **sales data analysis**.  
-The goal is to transform raw sales data into **useful and visual insights** to support decision-making.  
+## 🧠 About the Project
+**Data analysis project** using **Python, Pandas, and Matplotlib**, generating **visual insights and automatic reports**.  
+Great for learning **real datasets and analysis automation**.
 
-The workflow included **data cleaning, transformation, and visualization** using **Pandas, Matplotlib, and Seaborn**.
+- Read and manipulate CSV files  
+- Data visualization with charts  
+- Automated reporting  
 
----
-
-## 🧠 Skills Demonstrated
-- Data reading and processing with **Pandas**
-- Cleaning and normalizing datasets (missing values, data types)
-- Descriptive statistical analysis (mean, totals, correlations)
-- Visualizing sales performance by product, region, and time
-- Insight generation and storytelling with data
-
----
-
-## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🚀 Status
-✅ Concluído (sem imagens)
-📈 Próximo passo: adicionar notebook com análises visuais e comparati
+🔗 [Coming soon](#)

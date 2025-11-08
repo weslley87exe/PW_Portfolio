@@ -1,65 +1,83 @@
-# ⚡ Dashboards Power BI | Business Intelligence Visual Dashboards
+<h1 align="center">📊 Dashboard Power BI – Análise de Vendas</h1>
 
-## 🇧🇷 Descrição
-Projeto desenvolvido no **Power BI** com o objetivo de criar **dashboards interativos e dinâmicos** para análise de indicadores de negócio.  
-A proposta é mostrar a capacidade de **transformar dados brutos em insights visuais e estratégicos**, utilizando boas práticas de design, métricas DAX e modelagem de dados.
-
-O foco foi **clareza, performance e impacto visual**, permitindo que decisões possam ser tomadas rapidamente a partir das análises.
-
----
-
-## 🧠 Habilidades Demonstradas
-- Conexão de dados com **Excel, CSV e SQL Server**
-- Criação de **medidas e colunas calculadas (DAX)**
-- Modelagem relacional eficiente (dimensões e fatos)
-- Construção de **dashboards interativos** (filtros, segmentações e KPIs)
-- Design de relatórios com foco em **UX e storytelling de dados**
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tech-Power%20BI-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Data%20Visualization-blue?style=for-the-badge">
+</p>
 
 ---
 
-## 🧰 Tecnologias Utilizadas
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0A66C2?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+## 🧠 Sobre o Projeto
+Este dashboard foi criado no **Power BI** para analisar dados de vendas reais, conectando diferentes fontes como **SQL** e **CSV**.  
+O objetivo é transformar dados brutos em **insights visuais claros e estratégicos**.
+
+### ✨ Funcionalidades
+- Conexão com banco de dados SQL e planilhas  
+- Medidas DAX para KPIs e análises dinâmicas  
+- Filtros interativos e segmentações  
+- Layout moderno e responsivo  
 
 ---
 
-## 📸 Prévia (em breve)
-*(Gráficos e telas do dashboard serão adicionados futuramente)*
+## 🧩 Tecnologias Utilizadas
+- **Power BI**
+- **SQL**
+- **DAX**
+- **Excel/CSV**
 
 ---
 
-## 🇺🇸 Description
-Project developed using **Power BI** to create **interactive and dynamic dashboards** for business insights.  
-The goal is to demonstrate the ability to **transform raw data into visual and strategic information**, using best practices in design, DAX calculations, and data modeling.
-
-The main focus was **clarity, performance, and visual impact**, allowing fast and data-driven decision-making.
-
----
-
-## 🧠 Skills Demonstrated
-- Data connections with **Excel, CSV, and SQL Server**
-- Creation of **DAX measures and calculated columns**
-- Efficient relational modeling (dimensions and facts)
-- Building **interactive dashboards** (filters, KPIs, slicers)
-- Report design focused on **UX and data storytelling**
+## 📊 Indicadores Principais
+- Receita total e média mensal  
+- Produtos mais vendidos  
+- Desempenho por região e vendedor  
+- Análise de crescimento trimestral  
 
 ---
 
-## 🧰 Tech Stack
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-0A66C2?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+## 🌐 Contato
+📧 **Email:** pauloweslleypw8@gmail.com  
+💼 **LinkedIn:** [www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
+🖥️ **GitHub:** [weslley87exe](https://github.com/weslley87exe)
 
 ---
 
-## 🚀 Status
-✅ Estrutura pronta  
-📈 Próximo passo: adicionar capturas e relatório .pbix otimizado  
+## 🌍 English Version
+
+<h3 align="center">📊 Power BI Dashboard – Sales Analysis</h3>
 
 ---
 
-## 📂 Local do Projeto
-`/Python_projects/dashboards_powerbi/`
+## 🧠 About the Project
+This dashboard was built in **Power BI** to analyze real sales data, integrating **SQL** and **CSV** sources.  
+Its goal is to turn raw data into **clear, actionable insights**.
+
+### ✨ Features
+- Connection with SQL databases and spreadsheets  
+- DAX measures for KPIs and dynamic analysis  
+- Interactive filters and slicers  
+- Modern, responsive design  
+
+---
+
+## 🧩 Tech Stack
+- **Power BI**
+- **SQL**
+- **DAX**
+- **Excel/CSV**
+
+---
+
+## 📊 Main KPIs
+- Total and average monthly revenue  
+- Top-selling products  
+- Performance by region and salesperson  
+- Quarterly growth trends  
+
+---
+
+## 🌐 Contact
+📧 **Email:** pauloweslleypw8@gmail.com  
+💼 **LinkedIn:** [www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
+🖥️ **GitHub:** [weslley87exe](https://github.com/weslley87exe)

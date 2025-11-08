@@ -70,7 +70,8 @@ Atualmente, estou focado em **Análise de Dados e Back-End com Python**, criando
 |-------------|----------------|-----------|
 | 🐍 **Sistema de Cadastro de Alunos** | Python, Estruturas de Dados, Funções | [Abrir README](./Python_projects/sistema_alunos/README.md) |
 | 📊 **Dashboard Power BI – Vendas** | Power BI, SQL, DAX, Visualização | [Abrir README](./Python_projects/dashboards_powerbi/README.md) |
-| 💡 **Análise de Dados de Vendas** | Python, Pandas, Matplotlib | [Abrir README](./Python_projects/analise_dados_vendas/README.md) |
+| 💡 **Mini Projeto de Análise de Dados** | Python, Pandas, Matplotlib | [Abrir README](./Python_projects/analise_dados_vendas/README.md) |
+
 
 ---
 
@@ -152,7 +153,7 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 |-------------|----------------|-----------|
 | 🐍 **Student Registration System** | Python, Data Structures, Functions | [Open README](./Python_projects/sistema_alunos/README.md) |
 | 📊 **Power BI – Sales Dashboard** | Power BI, SQL, DAX, Visualization | [Open README](./Python_projects/dashboards_powerbi/README.md) |
-| 💡 **Sales Data Analysis** | Python, Pandas, Matplotlib | [Open README](./Python_projects/analise_dados_vendas/README.md) |
+| 💡 **Mini Data Analysis Project** | Python, Pandas, Matplotlib | [Open README](./Python_projects/analise_dados_vendas/README.md) |
 
 ---
 
