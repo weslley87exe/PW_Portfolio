@@ -1,38 +1,90 @@
-# 🧠 Sistema de Cadastro de Alunos | Student Registration System
+<h1 align="center">🐍 Sistema de Cadastro de Alunos (Python)</h1>
 
-![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-![Version](https://img.shields.io/badge/Versão-1.0.0-orange)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-
-## 🇧🇷 Sobre o Projeto
-O **Sistema de Cadastro de Alunos** é um projeto desenvolvido em **Python** para gerenciar informações de alunos, incluindo **nome**, **idade**, **nota** e **matrícula**.  
-O sistema foi projetado com foco em **boas práticas de programação**, **organização modular** e **validação de dados**.
-
-Este projeto foi um marco importante no meu aprendizado em **lógica de programação**, **funções**, **tratamento de erros** e **estrutura de dados** (listas e dicionários).
-
-### 🧩 Funcionalidades:
-- Adicionar alunos com validação de dados (nome, idade, nota e matrícula)
-- Prevenção de duplicidade por nome ou matrícula
-- Remoção de alunos por nome ou matrícula
-- Exibição da quantidade total de alunos cadastrados
-- Notas aceitando vírgula como separador decimal
-- Código estruturado em funções reutilizáveis e legíveis
-
-### 🧠 Tecnologias Utilizadas:
-- **Python 3.12**
-- Manipulação de **listas e dicionários**
-- Estruturas de controle (**if**, **for**, **while**)
-- Funções e modularização
-- **Validação de entrada de dados**
-
-### 💡 O que aprendi:
-- Criar um sistema funcional do zero usando apenas Python puro
-- Estruturar código limpo e reutilizável com funções
-- Tratar erros e validar dados do usuário
-- Organizar projetos de forma escalável e bem documentada
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tech-Python-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Back--End-orange?style=for-the-badge">
+</p>
 
 ---
 
-## 🇺🇸 About the Project
-The **Student Registr**
+## 🧠 Sobre o Projeto
+Este projeto foi desenvolvido para **gerenciar o cadastro de alunos** de forma simples e eficiente.  
+Possui funcionalidades completas de **CRUD** (Create, Read, Update, Delete), além de **validação de dados e persistência em arquivo**.
+
+### ✨ Funcionalidades Principais
+- Adicionar, remover e listar alunos  
+- Validação de notas (aceita vírgulas e pontos)  
+- Evita duplicidade por nome e matrícula  
+- Exibe a quantidade total de alunos  
+- Estrutura modular (funções separadas)  
+- Suporte a futura integração com FastAPI  
+
+---
+
+## 🧩 Tecnologias Utilizadas
+- **Python 3**
+- Estruturas de dados (listas e dicionários)
+- Manipulação de arquivos
+- Boas práticas de modularização
+
+---
+
+## 🚀 Execução
+```bash
+python main.py
+📦 sistema_alunos
+ ┣ 📜 main.py
+ ┣ 📜 funcoes.py
+ ┣ 📜 alunos.txt
+ ┗ 📜 README.md
+
+🌐 Contato
+
+📧 Email: pauloweslleypw8@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377
+
+🖥️ GitHub: weslley87exe
+
+🌍 English Version
+<h3 align="center">🐍 Student Registration System (Python)</h3>
+🧠 About the Project
+
+This project was developed to manage student records efficiently.
+It features a full CRUD system, with data validation and file persistence.
+
+✨ Main Features
+
+Add, remove, and list students
+
+Grade validation (supports commas and dots)
+
+Prevents duplicate names or registrations
+
+Displays total number of students
+
+Modular code structure (separated functions)
+
+Future FastAPI integration support
+
+🧩 Tech Stack
+
+Python 3
+
+Data structures (lists and dictionaries)
+
+File handling
+
+Modular programming
+
+🚀 Run
+python main.py
+
+🌐 Contact
+
+📧 Email: pauloweslleypw8@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377
+
+🖥️ GitHub: weslley87exe
