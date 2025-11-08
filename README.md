@@ -76,8 +76,9 @@ Atualmente, estou focado em **Análise de Dados e Back-End com Python**, criando
 
 ## 🌐 Contato
 
-📧 **Email:** paulo.weslley.dev@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/pauloweslley](https://linkedin.com/in/pauloweslley)  
+📧 **Email:** pauloweslleypw8@gmail.com  
+💼 **LinkedIn:** [www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
+🐙 **GitHub:** [github.com/weslley87exe](https://github.com/weslley87exe)  
 🖥️ **Portfólio Online:** [weslley87exe.github.io/PW_Portfolio](https://weslley87exe.github.io/PW_Portfolio)
 
 ---
@@ -157,8 +158,9 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 
 ## 🌐 Contact
 
-📧 **Email:** paulo.weslley.dev@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/pauloweslley](https://linkedin.com/in/pauloweslley)  
+📧 **Email:** pauloweslleypw8@gmail.com  
+💼 **LinkedIn:** [www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
+🐙 **GitHub:** [github.com/weslley87exe](https://github.com/weslley87exe)  
 🖥️ **Portfolio Website:** [weslley87exe.github.io/PW_Portfolio](https://weslley87exe.github.io/PW_Portfolio)
 
 ---
