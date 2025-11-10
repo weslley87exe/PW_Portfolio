@@ -12,7 +12,7 @@
 Sistema completo de cadastro de alunos com **CRUD**, validação de dados e persistência com **SQLite** via **FastAPI**.  
 O sistema agora está **online pela Railway**, com deploy automático.
 
-🔗 **Acesse o sistema:** [https://sistema-alunos-pw.up.railway.app](https://sistema-alunos-pw.up.railway.app)  
+🔗 **Acesse o sistema:** [https://sistema-alunos-pwdev.up.railway.app/](https://sistema-alunos-pw.up.railway.app)  
 📦 **Ver código no GitHub:** [https://github.com/weslley87exe/Sistema-de-Alunos](https://github.com/weslley87exe/Sistema-de-Alunos)
 
 ### ✨ Funcionalidades
@@ -41,7 +41,7 @@ O sistema agora está **online pela Railway**, com deploy automático.
 A complete student registration system built with **Python + FastAPI**, featuring **CRUD**, data validation, and **SQLite persistence**.  
 Now live online via **Railway**, with automatic deployment.
 
-🔗 **Access the system:** [https://sistema-alunos-pw.up.railway.app](https://sistema-alunos-pw.up.railway.app)  
+🔗 **Access the system:** [https://sistema-alunos-pwdev.up.railway.app/](https://sistema-alunos-pw.up.railway.app)  
 📦 **View code on GitHub:** [https://github.com/weslley87exe/Sistema-de-Alunos](https://github.com/weslley87exe/Sistema-de-Alunos)
 
 ### ✨ Features
