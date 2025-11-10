@@ -45,7 +45,7 @@ Atualmente, estou focado em **Análise de Dados e Back-End com Python**, criando
 - Prevenção de duplicidades e interface HTML + Jinja2  
 
 🔗 **Acessar sistema:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pwdev.up.railway.app/)  
-📦 **Código no GitHub:** [github.com/weslley87exe/Sistema-de-Alunos](https://github.com/weslley87exe/sistema-alunos)
+📦 **Código no GitHub:** [github.com/weslley87exe/sistema-alunos](https://github.com/weslley87exe/sistema-alunos)
 
 ---
 
