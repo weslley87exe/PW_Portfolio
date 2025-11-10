@@ -58,7 +58,3 @@ def api_adicionar(aluno: dict):
         raise HTTPException(status_code=400, detail="Matrícula já existe")
     return {"id": novo_id}
 
-if __name__ == "__main__":
-    import uvicorn
-    port = int(os.environ.get("PORT", 8000))
-    uvicorn.run("main:app", host="0.0.0.0", port=port)
