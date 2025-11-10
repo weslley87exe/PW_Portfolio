@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Analista%20de%20Dados%20%7C%20Back--End%20Python-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Version-1.0-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.1-lightgrey?style=for-the-badge">
 </p>
 
 ---
@@ -36,14 +36,16 @@ Atualmente, estou focado em **Análise de Dados e Back-End com Python**, criando
 
 ## 📈 Projetos em Destaque
 
-### 🐍 **Sistema de Cadastro de Alunos (Python)**
-> Um sistema completo com CRUD, validação de dados e persistência em arquivo.  
-> Inclui funções para adicionar, remover e listar alunos, com notas, idade e matrícula.
-- Organização modular (funções e módulos separados)  
-- Prevenção de duplicidades e suporte a notas com vírgula  
-- Deploy em FastAPI + Railway  
+### 🐍 **Sistema de Cadastro de Alunos (Python + FastAPI)**
+> Sistema completo desenvolvido em **Python + FastAPI**, com **CRUD**, **validação de dados** e **persistência em SQLite**.  
+> O projeto agora está disponível online via Railway com deploy automatizado.
 
-🔗 [Ver código no GitHub](https://github.com/weslley87exe/Sistema-de-Alunos)
+- Estrutura modular: `main.py`, `crud.py`, `schemas.py`  
+- Suporte a notas decimais (ex: 8,5 → 8.5)  
+- Prevenção de duplicidades e interface HTML + Jinja2  
+
+🔗 **Acessar sistema:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pw.up.railway.app)  
+📦 **Código no GitHub:** [github.com/weslley87exe/Sistema-de-Alunos](https://github.com/weslley87exe/Sistema-de-Alunos)
 
 ---
 
@@ -68,10 +70,9 @@ Atualmente, estou focado em **Análise de Dados e Back-End com Python**, criando
 
 | 💻 Projeto | 🧠 Tecnologias | 🔗 Acesso |
 |-------------|----------------|-----------|
-| 🐍 **Sistema de Cadastro de Alunos** | Python, Estruturas de Dados, Funções | [Abrir README](./Python_projects/sistema_alunos/README.md) |
+| 🐍 **Sistema de Cadastro de Alunos** | Python, FastAPI, SQLite, Jinja2 | [Abrir README](./Python_projects/sistema_alunos/README.md) |
 | 📊 **Dashboard Power BI – Vendas** | Power BI, SQL, DAX, Visualização | [Abrir README](./Python_projects/dashboards_powerbi/README.md) |
 | 💡 **Mini Projeto de Análise de Dados** | Python, Pandas, Matplotlib | [Abrir README](./Python_projects/analise_dados_vendas/README.md) |
-
 
 ---
 
@@ -118,21 +119,22 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 
 ## 📈 Featured Projects
 
-### 🐍 **Student Registration System (Python)**
-> Complete CRUD system with data validation and file persistence.  
-> Includes functions to add, remove, and list students with grades, age, and registration.
+### 🐍 **Student Registration System (Python + FastAPI)**
+> Complete student management system with **CRUD**, **data validation**, and **SQLite persistence**.  
+> Now available online through Railway with auto-deployment.
 
-- Modular structure (functions and modules)  
-- Duplicate prevention and decimal grade validation  
-- Deploy using FastAPI + Railway  
+- Modular structure: `main.py`, `crud.py`, `schemas.py`  
+- Supports decimal grades (e.g., 8.5)  
+- Duplicate prevention and HTML + Jinja2 interface  
 
-🔗 [View code on GitHub](https://github.com/weslley87exe/Sistema-de-Alunos)
+🔗 **Access system:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pw.up.railway.app)  
+📦 **View code on GitHub:** [github.com/weslley87exe/Sistema-de-Alunos](https://github.com/weslley87exe/Sistema-de-Alunos)
 
 ---
 
 ### 📊 **Power BI Dashboard – Sales Analysis**
-> Interactive dashboard connecting SQL and CSV data, using DAX measures and dynamic filters.  
-> Displays KPIs, sales trends, and visual insights.
+> Interactive dashboard connecting SQL and CSV data with DAX measures and dynamic filters.  
+> Displays KPIs, sales evolution, and visual insights.
 
 🔗 [View Power BI project](#)  
 🔗 [View on GitHub Pages](https://weslley87exe.github.io/PW_Portfolio/)
@@ -140,7 +142,7 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 ---
 
 ### 💡 **Mini Data Analysis Project (Python + CSV)**
-> Real dataset analysis with Pandas and Matplotlib, generating visual insights and automatic reports.  
+> Real dataset analysis using Pandas and Matplotlib, generating visual insights and automatic reports.  
 > (In development)
 
 🔗 [Coming soon](#)
@@ -151,7 +153,7 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 
 | 💻 Project | 🧠 Technologies | 🔗 Access |
 |-------------|----------------|-----------|
-| 🐍 **Student Registration System** | Python, Data Structures, Functions | [Open README](./Python_projects/sistema_alunos/README.md) |
+| 🐍 **Student Registration System** | Python, FastAPI, SQLite, Jinja2 | [Open README](./Python_projects/sistema_alunos/README.md) |
 | 📊 **Power BI – Sales Dashboard** | Power BI, SQL, DAX, Visualization | [Open README](./Python_projects/dashboards_powerbi/README.md) |
 | 💡 **Mini Data Analysis Project** | Python, Pandas, Matplotlib | [Open README](./Python_projects/analise_dados_vendas/README.md) |
 
