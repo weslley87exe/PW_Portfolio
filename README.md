@@ -45,7 +45,7 @@ Atualmente, estou focado em **Análise de Dados e Back-End com Python**, criando
 - Prevenção de duplicidades e interface HTML + Jinja2  
 
 🔗 **Acessar sistema:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pwdev.up.railway.app/)  
-📦 **Código no GitHub:** [github.com/weslley87exe/sistema-alunos](https://github.com/weslley87exe/sistema-alunos)
+📦 **Código no GitHub:** [github.com/weslley87exe/Portfolio/tree/main/Python_projects/sistema_alunos](https://github.com/weslley87exe/Portfolio/tree/main/Python_projects/sistema_alunos)
 
 ---
 
@@ -128,8 +128,7 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 - Duplicate prevention and HTML + Jinja2 interface  
 
 🔗 **Access system:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pw.up.railway.app)  
-📦 **View code on GitHub:** [github.com/weslley87exe/Sistema-de-Alunos](https://github.com/weslley87exe/Sistema-de-Alunos)
-
+📦 **View code on GitHub:** [github.com/weslley87exe/Portfolio/tree/main/Python_projects/sistema_alunos](https://github.com/weslley87exe/Portfolio/tree/main/Python_projects/sistema_alunos)
 ---
 
 ### 📊 **Power BI Dashboard – Sales Analysis**
