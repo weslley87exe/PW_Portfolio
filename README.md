@@ -48,7 +48,7 @@ Atualmente, estou focado em **Análise de Dados e Back-End com Python**, criando
 - Suporte a notas decimais (ex: 8,5 → 8.5)  
 - Prevenção de duplicidades e interface HTML + Jinja2  
 
-🔗 **Acessar sistema:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pw.up.railway.app)  
+🔗 **Acessar sistema:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pwdev.up.railway.app)  
 📦 **Código no GitHub:** [github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos](https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos)
 
 ---
@@ -131,7 +131,7 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 - Supports decimal grades (e.g., 8.5)  
 - Duplicate prevention and HTML + Jinja2 interface  
 
-🔗 **Access system:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pw.up.railway.app)  
+🔗 **Access system:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pwdev.up.railway.app)  
 📦 **View code on GitHub:** [github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos](https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos)
 
 ---
