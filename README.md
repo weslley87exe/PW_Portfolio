@@ -3,7 +3,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Focus-Analista%20de%20Dados%20%7C%20Back--End%20Python-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Version-1.1-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.2-lightgrey?style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://github.com/weslley87exe/PW_Portfolio/blob/main/assets/banner_pw.png" alt="Banner PW" width="80%">
 </p>
 
 ---
@@ -38,14 +42,14 @@ Atualmente, estou focado em **Análise de Dados e Back-End com Python**, criando
 
 ### 🐍 **Sistema de Cadastro de Alunos (Python + FastAPI)**
 > Sistema completo desenvolvido em **Python + FastAPI**, com **CRUD**, **validação de dados** e **persistência em SQLite**.  
-> O projeto agora está disponível online via Railway com deploy automatizado.
+> 🚀 **Agora online via Railway com deploy automático.**
 
 - Estrutura modular: `main.py`, `crud.py`, `schemas.py`  
 - Suporte a notas decimais (ex: 8,5 → 8.5)  
 - Prevenção de duplicidades e interface HTML + Jinja2  
 
-🔗 **Acessar sistema:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pwdev.up.railway.app/)  
-**Código no GitHub:** [github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos](https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos)
+🔗 **Acessar sistema:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pw.up.railway.app)  
+📦 **Código no GitHub:** [github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos](https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos)
 
 ---
 
@@ -79,7 +83,7 @@ Atualmente, estou focado em **Análise de Dados e Back-End com Python**, criando
 ## 🌐 Contato
 
 📧 **Email:** pauloweslleypw8@gmail.com  
-💼 **LinkedIn:** [www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
+💼 **LinkedIn:** [linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
 🐙 **GitHub:** [github.com/weslley87exe](https://github.com/weslley87exe)  
 🖥️ **Portfólio Online:** [weslley87exe.github.io/PW_Portfolio](https://weslley87exe.github.io/PW_Portfolio)
 
@@ -120,8 +124,8 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 ## 📈 Featured Projects
 
 ### 🐍 **Student Registration System (Python + FastAPI)**
-> Complete student management system with **CRUD**, **data validation**, and **SQLite persistence**.  
-> Now available online through Railway with auto-deployment.
+> Complete system built with **Python + FastAPI**, including **CRUD**, **data validation**, and **SQLite persistence**.  
+> 🚀 **Now live on Railway with automatic deployment.**
 
 - Modular structure: `main.py`, `crud.py`, `schemas.py`  
 - Supports decimal grades (e.g., 8.5)  
@@ -130,9 +134,11 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 🔗 **Access system:** [sistema-alunos-pw.up.railway.app](https://sistema-alunos-pw.up.railway.app)  
 📦 **View code on GitHub:** [github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos](https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos)
 
+---
+
 ### 📊 **Power BI Dashboard – Sales Analysis**
-> Interactive dashboard connecting SQL and CSV data with DAX measures and dynamic filters.  
-> Displays KPIs, sales evolution, and visual insights.
+> Interactive dashboard connecting SQL and CSV data, featuring DAX measures and dynamic filters.  
+> Displays KPIs, sales growth, and visual insights.
 
 🔗 [View Power BI project](#)  
 🔗 [View on GitHub Pages](https://weslley87exe.github.io/PW_Portfolio/)
@@ -140,7 +146,7 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 ---
 
 ### 💡 **Mini Data Analysis Project (Python + CSV)**
-> Real dataset analysis using Pandas and Matplotlib, generating visual insights and automatic reports.  
+> Real-world data analysis using Pandas and Matplotlib, generating visual insights and automated reports.  
 > (In development)
 
 🔗 [Coming soon](#)
@@ -160,7 +166,7 @@ Currently focused on **Data Analysis and Python Back-End**, creating projects th
 ## 🌐 Contact
 
 📧 **Email:** pauloweslleypw8@gmail.com  
-💼 **LinkedIn:** [www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
+💼 **LinkedIn:** [linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
 🐙 **GitHub:** [github.com/weslley87exe](https://github.com/weslley87exe)  
 🖥️ **Portfolio Website:** [weslley87exe.github.io/PW_Portfolio](https://weslley87exe.github.io/PW_Portfolio)
 
