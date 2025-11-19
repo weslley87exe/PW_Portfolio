@@ -1,68 +1,93 @@
-<h1 align="center">📊 Dashboard Power BI – Análise de Vendas</h1>
+<h1 align="center">📊 Power BI – Projetos de Análise de Dados</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Em%20Andamento-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tool-Power%20BI%20Desktop-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Version-1.0-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Projetos-2-green?style=for-the-badge">
 </p>
 
 ---
 
-## 🧠 Sobre o projeto
+## 🧠 Sobre esta pasta
 
-Dashboard profissional desenvolvido em **Power BI**, projetado para analisar **dados de vendas**, criar indicadores estratégicos e entregar insights de negócio através de visualizações dinâmicas.
+Esta pasta reúne meus **projetos profissionais em Power BI**, desenvolvidos para o portfólio como **Analista de Dados**.  
+Cada dashboard demonstra habilidades reais em:
 
-O relatório integra:
+- ETL com Power Query  
+- Modelagem de dados  
+- Métricas DAX  
+- Construção de relatórios executivos  
+- Visualizações limpas, modernas e orientadas a negócios  
+- Publicação para GitHub Pages
 
-- Dados SQL  
-- Arquivos CSV  
-- Medidas DAX personalizadas  
-- Filtros interativos  
-- Visualizações modernas  
-- Navegação entre páginas  
-
-Este dashboard faz parte do meu portfólio como **Analista de Dados**, demonstrando domínio em ETL, modelagem e apresentação de insights.
-
----
-
-## 🛠️ Tecnologias utilizadas
-
-- **Power BI Desktop**
-- **SQL Server / SQLite (dependendo da fonte)**
-- **DAX**
-- **Power Query (ETL)**
-- **GitHub Pages (para apresentação)**
+Atualmente, esta pasta contém **1 projeto finalizado** e **1 projeto em desenvolvimento**.
 
 ---
 
-## 📈 O que o dashboard mostra?
-
-- KPIs principais (Receita, Ticket Médio, Total de Vendas)  
-- Evolução temporal (linha, barras)  
-- Categorias mais vendidas  
-- Análise de clientes  
-- Filtros interativos  
-- Navegação entre páginas  
-
-> O relatório final será embedado aqui quando publicado.
+# 📁 Projetos
 
 ---
 
-## 📂 Estrutura do projeto
+## ✅ **1. Dashboard de Vendas 2023 (Concluído)**
 
-dashboards_powerbi/
-├── dataset/
-├── pbix/
-├── export/
+📍 Caminho:  
+`PowerBI_Dashboards/Vendas_Anual/dashboard_vendas_2023.pbix`
+
+Dashboard profissional analisando dados de vendas anuais, com foco em KPIs e insights executivos.
+
+**Inclui:**
+
+- KPIs de Receita, Quantidade vendida e Ticket Médio  
+- Tendência mensal de vendas  
+- Top 5 produtos  
+- Vendas por vendedor  
+- Vendas por categoria  
+- Vendas por região (mapa geográfico personalizado)  
+- Paleta visual customizada  
+- Layout planejado para apresentação profissional  
+
+📌 *Este projeto já faz parte do portfólio principal e será utilizado no LinkedIn.*
+
+---
+
+## 🛠️ **2. Dashboard de Análises Avançadas (Em Desenvolvimento)**
+
+📍 Caminho reservado:  
+`PowerBI_Dashboards/Analises_Avancadas/`
+
+Será o segundo dashboard Power BI do portfólio, com foco em:
+
+- Análises exploratórias  
+- Tendências e padrões  
+- Correlação (ex.: produto x receita, vendedor x performance)  
+- Segmentação por cluster  
+- Insights automáticos  
+- Métricas DAX avançadas  
+
+🔜 **Após a finalização, este README será atualizado novamente.**
+
+---
+
+## 📂 Estrutura Geral
+
+PowerBI_Dashboards/
+├── Vendas_Anual/
+│ └── dashboard_vendas_2023.pbix
+├── Analises_Avancadas/
+│ └── (em desenvolvimento)
 └── README.md
 
 
 ---
 
-## 🔗 Links
+## 🔗 Links do Portfólio
 
-📊 **Live Preview (GitHub Pages):**  
+🌐 **Portfólio Completo:**  
 https://weslley87exe.github.io/PW_Portfolio/
 
-🟡 **PBIX File:**  
-Will be available once completed.
+📦 **Repositório GitHub:**  
+https://github.com/weslley87exe/PW_Portfolio
+
+---
+
+## © Criado por Paulo Wesley (PW)
