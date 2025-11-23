@@ -20,3 +20,42 @@ O objetivo é demonstrar domínio em modelagem, limpeza de dados, criação de K
 - Modelagem Dimensional
 
 ## 📁 Estrutura do Projeto
+
+powerbi-analise-avancada-vendas/
+│
+├── dashboard/
+│ ├── Dashboard_Vendas_2015_2024.pbix
+│ ├── print-dashboard.png
+│
+├── dados/
+│ ├── dataset_vendas_5000.xlsx
+
+
+---
+
+# ✨ English Version
+
+# Sales Dashboard — Advanced Analysis (2015–2024)
+
+This project presents an interactive Power BI dashboard focused on advanced sales analysis, covering performance by region, category, subcategory, and sales channel.
+
+## 🚀 Highlights
+- Main KPIs: Total Revenue, Total Profit, Average Ticket, Total Sales, Profit Margin.
+- Visualizations by:
+  - Subcategory
+  - Sales Channel
+  - Yearly Timeline
+  - Map by State + Region
+- Fully interactive slicers and filters.
+- Data cleaning & transformation in Power Query.
+- Professional layout for portfolio use.
+
+## 📊 Technologies
+- Power BI
+- Excel
+- Data Modeling
+
+---
+
+Criado por Paulo Wesley  
+Portfólio Power BI | 2025

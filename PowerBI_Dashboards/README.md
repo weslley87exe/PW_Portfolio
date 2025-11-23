@@ -1,7 +1,7 @@
 <h1 align="center">📊 Power BI – Projetos de Análise de Dados</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20Andamento-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Atualizado-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tool-Power%20BI%20Desktop-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/Projetos-2-green?style=for-the-badge">
 </p>
@@ -10,17 +10,18 @@
 
 ## 🧠 Sobre esta pasta
 
-Esta pasta reúne meus **projetos profissionais em Power BI**, desenvolvidos para o portfólio como **Analista de Dados**.  
-Cada dashboard demonstra habilidades reais em:
+Esta pasta reúne meus **projetos profissionais de Business Intelligence**, desenvolvidos como parte do meu portfólio de **Analista de Dados**.  
+Cada dashboard demonstra habilidades práticas em:
 
 - ETL com Power Query  
-- Modelagem de dados  
+- Modelagem dimensional  
 - Métricas DAX  
 - Construção de relatórios executivos  
-- Visualizações limpas, modernas e orientadas a negócios  
-- Publicação para GitHub Pages
+- Design para tomada de decisão  
+- Storytelling com dados  
+- Publicação e versionamento no GitHub  
 
-Atualmente, esta pasta contém **1 projeto finalizado** e **1 projeto em desenvolvimento**.
+Atualmente esta pasta contém **2 projetos finalizados**, ambos otimizados e prontos para apresentação pública.
 
 ---
 
@@ -33,38 +34,41 @@ Atualmente, esta pasta contém **1 projeto finalizado** e **1 projeto em desenvo
 📍 Caminho:  
 `PowerBI_Dashboards/Vendas_Anual/dashboard_vendas_2023.pbix`
 
-Dashboard profissional analisando dados de vendas anuais, com foco em KPIs e insights executivos.
+Dashboard profissional analisando o desempenho anual de vendas, com foco em KPIs e visão estratégica.
 
 **Inclui:**
 
-- KPIs de Receita, Quantidade vendida e Ticket Médio  
-- Tendência mensal de vendas  
-- Top 5 produtos  
-- Vendas por vendedor  
-- Vendas por categoria  
-- Vendas por região (mapa geográfico personalizado)  
-- Paleta visual customizada  
-- Layout planejado para apresentação profissional  
+- Receita total, quantidade vendida e ticket médio  
+- Análise mensal completa  
+- Ranking de produtos  
+- Performance de vendedores  
+- Categorias e subcategorias  
+- Mapa de vendas por estado  
+- Layout corporativo + paleta visual customizada  
 
-📌 *Este projeto já faz parte do portfólio principal e será utilizado no LinkedIn.*
+📌 *Já publicado no portfólio principal e exibido no LinkedIn.*
 
 ---
 
-## 🛠️ **2. Dashboard de Análises Avançadas (Em Desenvolvimento)**
+## ✅ **2. Dashboard de Vendas – Análises Avançadas (2015–2024)**
 
-📍 Caminho reservado:  
-`PowerBI_Dashboards/Analises_Avancadas/`
+📍 Caminho:  
+`PowerBI_Dashboards/Analises_Avancadas_Vendas/Dashboard/`
 
-Será o segundo dashboard Power BI do portfólio, com foco em:
+Projeto avançado com foco em **análises profundas de vendas** ao longo de uma década, explorando padrões, lucratividade e comportamento de mercado.
 
-- Análises exploratórias  
-- Tendências e padrões  
-- Correlação (ex.: produto x receita, vendedor x performance)  
-- Segmentação por cluster  
-- Insights automáticos  
-- Métricas DAX avançadas  
+**Inclui:**
 
-🔜 **Após a finalização, este README será atualizado novamente.**
+- Receita Total, Lucro, Ticket Médio, Margem (%) e Total de Vendas  
+- Filtros dinâmicos por ano, categoria e canal  
+- Análise de lucro por subcategoria  
+- Receita por ano (tendência temporal)  
+- Distribuição de vendas por canal  
+- Mapa regional com clusters de receita  
+- DAX otimizado para alta performance  
+- Dataset criado via simulação (5000+ registros)  
+
+📌 *Projeto totalmente finalizado, estruturado para recrutadores e empresas.*
 
 ---
 
@@ -73,8 +77,10 @@ Será o segundo dashboard Power BI do portfólio, com foco em:
 PowerBI_Dashboards/
 ├── Vendas_Anual/
 │ └── dashboard_vendas_2023.pbix
-├── Analises_Avancadas/
-│ └── (em desenvolvimento)
+├── Analises_Avancadas_Vendas/
+│ ├── dados/
+│ ├── Dashboard/
+│ └── README.md (em breve)
 └── README.md
 
 
