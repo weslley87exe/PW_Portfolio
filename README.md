@@ -65,19 +65,19 @@ Dashboard avançado cobrindo:
 - Análise 2015–2024  
 - Visual refinado e responsivo  
 
-🖼️ **Print:**  
-https://github.com/weslley87exe/PW_Portfolio/blob/main/PowerBI_Dashboards/Dashboard-vendas-analise-avancada/Dashboard/Dashboard%20de%20Vendas%20—%20An%C3%A1lise%20Avan%C3%A7ada%20(2015–2024).png
+🖼️ **Visual do Dashboard:**  
+👉 [Ver Print em Alta Qualidade](PowerBI_Dashboards/Dashboard-vendas-analise-avancada/Dashboard/Dashboard%20de%20Vendas%20—%20An%C3%A1lise%20Avan%C3%A7ada%20(2015–2024).png)
 
-📦 **Código:**  
-https://github.com/weslley87exe/PW_Portfolio/tree/main/PowerBI_Dashboards/Dashboard-vendas-analise-avancada
+📦 **Arquivos do Projeto:**  
+👉 [Abrir Pasta no GitHub](PowerBI_Dashboards/Dashboard-vendas-analise-avancada)
 
 ---
 
 ### 📊 **Dashboard Vendas Anual 2023 (Power BI)**
 Dashboard rápido e objetivo para análise anual.
 
-Print:  
-https://github.com/weslley87exe/PW_Portfolio/blob/main/PowerBI_Dashboards/Vendas_Anual/Vendas_Anual_2023_PW.PNG
+🖼️ **Visual do Dashboard:**  
+👉 [Ver Print Anual 2023](PowerBI_Dashboards/Vendas_Anual/Vendas_Anual_2023_PW.PNG)
 
 ---
 
@@ -95,19 +95,22 @@ https://github.com/weslley87exe/PW_Portfolio/blob/main/PowerBI_Dashboards/Vendas
 
 | 💻 Projeto | 🧠 Tecnologias | 🔗 Acesso |
 |-----------|----------------|-----------|
-| Sistema de Cadastro (FastAPI) | Python, SQLite | ./Python_projects/sistema_alunos |
-| Dashboard Completo de Vendas | Power BI, DAX, SQL | ./PowerBI_Dashboards/Dashboard-vendas-analise-avancada |
-| Dashboard Vendas 2023 | Power BI | ./PowerBI_Dashboards/Vendas_Anual |
-| Mini Análise de Dados | Python, Pandas | ./Python_projects/analise_dados_vendas |
+| Sistema de Cadastro (FastAPI) | Python, SQLite | [Acessar](https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_alunos) |
+| Dashboard Completo de Vendas | Power BI, DAX, SQL | [Acessar](https://github.com/weslley87exe/PW_Portfolio/tree/main/PowerBI_Dashboards/Dashboard-vendas-analise-avancada) |
+| Dashboard Vendas 2023 | Power BI | [Acessar](https://github.com/weslley87exe/PW_Portfolio/tree/main/PowerBI_Dashboards/Vendas_Anual) |
+| Mini Análise de Dados | Python, Pandas | [Acessar](https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/analise_dados_vendas) |
 
 ---
 
-## 🌐 Contato
+### 📬 **Meus Contatos**
+📧 **Email:** pauloweslleypw8@gmail.com  
+💼 **LinkedIn:**  
+👉 [Acessar Perfil](https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377)  
+🐙 **GitHub:**  
+👉 [Meu Repositório](https://github.com/weslley87exe)  
+🖥️ **Portfólio Online:**  
+👉 [Ver Portfólio Completo](https://weslley87exe.github.io/PW_Portfolio)
 
-📧 Email: **pauloweslleypw8@gmail.com**  
-💼 LinkedIn: https://www.linkedin.com/in/paulo-wesley-mesquita-oliveira-841b0b377  
-🐙 GitHub: https://github.com/weslley87exe  
-🖥️ Portfólio Online: https://weslley87exe.github.io/PW_Portfolio  
 
 ---
 
