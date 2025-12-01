@@ -1,13 +1,60 @@
-// Rolagem suave entre seções
+//=============== MENU MOBILE ===============
+const btnMenu = document.getElementById('btn-menu');
+const nav = document.getElementById('main-nav');
+
+btnMenu.addEventListener('click', () => {
+  const isOpen = nav.classList.toggle('open');
+  btnMenu.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+  // animate hamburger
+  btnMenu.classList.toggle('is-active');
+});
+
+//=============== DARK MODE ===============
+const root = document.documentElement;
+const themeBtn = document.getElementById('btn-theme');
+const iconSun = document.getElementById('icon-sun');
+const iconMoon = document.getElementById('icon-moon');
+
+function setTheme(isLight){
+  if(isLight){
+    root.classList.add('light');
+    iconSun.classList.remove('hidden');
+    iconMoon.classList.add('hidden');
+    localStorage.setItem('pw_theme','light');
+  } else {
+    root.classList.remove('light');
+    iconSun.classList.add('hidden');
+    iconMoon.classList.remove('hidden');
+    localStorage.setItem('pw_theme','dark');
+  }
+}
+
+// inicializa com preferência do usuário
+const saved = localStorage.getItem('pw_theme');
+if(saved === 'light') setTheme(true);
+else setTheme(false);
+
+themeBtn.addEventListener('click', () => {
+  const isLight = root.classList.contains('light');
+  setTheme(!isLight);
+});
+
+//=============== SMOOTH SCROLL (header offset) ===============
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   anchor.addEventListener('click', function (e) {
+    const href = this.getAttribute('href');
+    if(!href || href === '#' ) return;
     e.preventDefault();
-    const target = document.querySelector(this.getAttribute('href'));
-    if (target) {
-      window.scrollTo({
-        top: target.offsetTop - 60,
-        behavior: 'smooth'
-      });
+    const target = document.querySelector(href);
+    if(target){
+      const offset = 72;
+      const top = target.getBoundingClientRect().top + window.scrollY - offset;
+      window.scrollTo({top, behavior:'smooth'});
+      // close mobile nav if open
+      if(nav.classList.contains('open')){
+        nav.classList.remove('open');
+        btnMenu.setAttribute('aria-expanded','false');
+      }
     }
   });
 });
