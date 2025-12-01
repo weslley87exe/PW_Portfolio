@@ -62,7 +62,7 @@ https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_a
 
 ---
 
-### 🎯 **ETAPA 3 — SQL Completo + Views + Modelo de Análise**
+### 🎯 ** SQL Completo + Views + Modelo de Análise**
 **Projeto Profissional de SQL** estruturado com:
 
 - Banco SQLite organizado  
@@ -76,7 +76,7 @@ https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_a
 - Pronto para o currículo como “Experiência prática em SQL”
 
 📦 **Repositório:**  
-https://github.com/weslley87exe/PW_Portfolio/tree/main/SQL_scripts
+https://github.com/weslley87exe/PW_Portfolio/tree/main/SQL_Scripts
 
 ---
 
