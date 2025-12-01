@@ -90,7 +90,7 @@ Dashboard profissional com:
 - DAX básico e intermediário  
 
 🖼️ **Visual (HD):**  
-PowerBI_Dashboards/Dashboard-vendas-analise-avancada/Dashboard/Dashboard%20de%20Vendas%20—%20An%C3%A1lise%20Avan%C3%A7ada%20(2015–2024).png
+![PowerBI_Dashboards/Dashboard-vendas-analise-avancada/Dashboard/Dashboard%20de%20Vendas%20—%20An%C3%A1lise%20Avan%C3%A7ada%20(2015–2024).png](https://github.com/weslley87exe/PW_Portfolio/blob/main/PowerBI_Dashboards/Dashboard-vendas-analise-avancada/Dashboard/Dashboard%20de%20Vendas%20—%20Análise%20Avançada%20(2015–2024).png)
 
 📦 **Arquivos do Projeto:**  
 https://github.com/weslley87exe/PW_Portfolio/tree/main/PowerBI_Dashboards/Dashboard-vendas-analise-avancada
