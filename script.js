@@ -1,60 +1,49 @@
-//=============== MENU MOBILE ===============
-const btnMenu = document.getElementById('btn-menu');
-const nav = document.getElementById('main-nav');
+/* ========= MENU MOBILE ========= */
+const btnMenu = document.getElementById("btn-menu");
+const nav = document.getElementById("main-nav");
 
-btnMenu.addEventListener('click', () => {
-  const isOpen = nav.classList.toggle('open');
-  btnMenu.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
-  // animate hamburger
-  btnMenu.classList.toggle('is-active');
+btnMenu.addEventListener("click", () => {
+  nav.classList.toggle("open");
+  const expanded = btnMenu.getAttribute("aria-expanded") === "true";
+  btnMenu.setAttribute("aria-expanded", String(!expanded));
 });
 
-//=============== DARK MODE ===============
-const root = document.documentElement;
-const themeBtn = document.getElementById('btn-theme');
-const iconSun = document.getElementById('icon-sun');
-const iconMoon = document.getElementById('icon-moon');
+/* ========= DARK MODE ========= */
+const themeBtn = document.getElementById("btn-theme");
+const sun = document.getElementById("icon-sun");
+const moon = document.getElementById("icon-moon");
 
-function setTheme(isLight){
-  if(isLight){
-    root.classList.add('light');
-    iconSun.classList.remove('hidden');
-    iconMoon.classList.add('hidden');
-    localStorage.setItem('pw_theme','light');
+function applyTheme(theme) {
+  if (theme === "dark") {
+    document.body.classList.add("dark");
+    sun.classList.remove("hidden");
+    moon.classList.add("hidden");
   } else {
-    root.classList.remove('light');
-    iconSun.classList.add('hidden');
-    iconMoon.classList.remove('hidden');
-    localStorage.setItem('pw_theme','dark');
+    document.body.classList.remove("dark");
+    sun.classList.add("hidden");
+    moon.classList.remove("hidden");
   }
 }
 
-// inicializa com preferência do usuário
-const saved = localStorage.getItem('pw_theme');
-if(saved === 'light') setTheme(true);
-else setTheme(false);
+let savedTheme = localStorage.getItem("theme") || "light";
+applyTheme(savedTheme);
 
-themeBtn.addEventListener('click', () => {
-  const isLight = root.classList.contains('light');
-  setTheme(!isLight);
+themeBtn.addEventListener("click", () => {
+  const newTheme = document.body.classList.contains("dark") ? "light" : "dark";
+  localStorage.setItem("theme", newTheme);
+  applyTheme(newTheme);
 });
 
-//=============== SMOOTH SCROLL (header offset) ===============
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-  anchor.addEventListener('click', function (e) {
-    const href = this.getAttribute('href');
-    if(!href || href === '#' ) return;
-    e.preventDefault();
-    const target = document.querySelector(href);
-    if(target){
-      const offset = 72;
-      const top = target.getBoundingClientRect().top + window.scrollY - offset;
-      window.scrollTo({top, behavior:'smooth'});
-      // close mobile nav if open
-      if(nav.classList.contains('open')){
-        nav.classList.remove('open');
-        btnMenu.setAttribute('aria-expanded','false');
-      }
+/* ========= ROLAGEM SUAVE ========= */
+document.querySelectorAll('a[href^="#"]').forEach(link => {
+  link.addEventListener("click", (e) => {
+    const target = document.querySelector(link.getAttribute("href"));
+    if (target) {
+      e.preventDefault();
+      window.scrollTo({
+        top: target.offsetTop - 60,
+        behavior: "smooth"
+      });
     }
   });
 });
