@@ -1,49 +1,56 @@
-/* ========= MENU MOBILE ========= */
-const btnMenu = document.getElementById("btn-menu");
-const nav = document.getElementById("main-nav");
+// MENU MOBILE
+const btnMenu = document.getElementById('btn-menu');
+const nav = document.getElementById('main-nav');
 
-btnMenu.addEventListener("click", () => {
-  nav.classList.toggle("open");
-  const expanded = btnMenu.getAttribute("aria-expanded") === "true";
-  btnMenu.setAttribute("aria-expanded", String(!expanded));
+btnMenu.addEventListener('click', () => {
+  const opened = nav.classList.toggle('open');
+  btnMenu.setAttribute('aria-expanded', opened ? 'true' : 'false');
+  btnMenu.classList.toggle('is-active');
 });
 
-/* ========= DARK MODE ========= */
-const themeBtn = document.getElementById("btn-theme");
-const sun = document.getElementById("icon-sun");
-const moon = document.getElementById("icon-moon");
+// DARK MODE (persistente)
+const themeBtn = document.getElementById('btn-theme');
+const iconSun = document.getElementById('icon-sun');
+const iconMoon = document.getElementById('icon-moon');
 
-function applyTheme(theme) {
-  if (theme === "dark") {
-    document.body.classList.add("dark");
-    sun.classList.remove("hidden");
-    moon.classList.add("hidden");
+function applyTheme(theme){
+  if(theme === 'light'){
+    document.documentElement.classList.add('light');
+    iconSun.classList.remove('hidden');
+    iconMoon.classList.add('hidden');
   } else {
-    document.body.classList.remove("dark");
-    sun.classList.add("hidden");
-    moon.classList.remove("hidden");
+    document.documentElement.classList.remove('light');
+    iconSun.classList.add('hidden');
+    iconMoon.classList.remove('hidden');
   }
 }
 
-let savedTheme = localStorage.getItem("theme") || "light";
-applyTheme(savedTheme);
+const saved = localStorage.getItem('pw_theme') || 'dark';
+applyTheme(saved);
 
-themeBtn.addEventListener("click", () => {
-  const newTheme = document.body.classList.contains("dark") ? "light" : "dark";
-  localStorage.setItem("theme", newTheme);
-  applyTheme(newTheme);
+themeBtn.addEventListener('click', () => {
+  const current = document.documentElement.classList.contains('light') ? 'light' : 'dark';
+  const next = current === 'light' ? 'dark' : 'light';
+  localStorage.setItem('pw_theme', next);
+  applyTheme(next);
 });
 
-/* ========= ROLAGEM SUAVE ========= */
-document.querySelectorAll('a[href^="#"]').forEach(link => {
-  link.addEventListener("click", (e) => {
-    const target = document.querySelector(link.getAttribute("href"));
-    if (target) {
+// SMOOTH SCROLL (header offset)
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', function(e){
+    const href = this.getAttribute('href');
+    if(!href || href === '#') return;
+    const target = document.querySelector(href);
+    if(target){
       e.preventDefault();
-      window.scrollTo({
-        top: target.offsetTop - 60,
-        behavior: "smooth"
-      });
+      const offset = 72;
+      const top = target.getBoundingClientRect().top + window.scrollY - offset;
+      window.scrollTo({ top, behavior: 'smooth' });
+      // fecha menu mobile se aberto
+      if(nav.classList.contains('open')){
+        nav.classList.remove('open');
+        btnMenu.setAttribute('aria-expanded','false');
+      }
     }
   });
 });
