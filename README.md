@@ -113,7 +113,6 @@ PowerBI_Dashboards/Vendas_Anual/Vendas_Anual_2023_PW.PNG
 | SQL Scripts | SQL, Views, Joins | [Acessar](https://github.com/weslley87exe/PW_Portfolio/tree/main/SQL_Scripts) |
 | Dashboard de Vendas (Completo) | Power BI, DAX, SQL | [Acessar](https://github.com/weslley87exe/PW_Portfolio/tree/main/PowerBI_Dashboards/Dashboard-vendas-analise-avancada) |
 | Dashboard Vendas 2023 | Power BI | [Acessar](https://github.com/weslley87exe/PW_Portfolio/tree/main/PowerBI_Dashboards/Vendas_Anual) |
-| Mini Análise de Dados | Python, Pandas | [Acessar](https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/analise_dados_vendas) |
 
 ---
 
