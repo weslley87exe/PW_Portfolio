@@ -62,7 +62,7 @@ https://github.com/weslley87exe/PW_Portfolio/tree/main/Python_projects/sistema_a
 
 ---
 
-### 🎯 ** SQL Completo + Views + Modelo de Análise**
+### 🎯 **SQL Completo + Views + Modelo de Análise**
 **Projeto Profissional de SQL** estruturado com:
 
 - Banco SQLite organizado  
